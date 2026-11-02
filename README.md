@@ -1,5 +1,10 @@
-# 💫 About Me:
-## Product Manager & Builder<br>Designing and shipping agentic AI systems, from retrieval pipelines to production APIs<br>CS Graduate
+<h1 align="center">Hey, I'm Ali 👋</h1>
+
+<p align="center">
+  CS graduate from Algiers, obsessed with agentic AI.<br>
+  By day I run product and growth.<br>
+  The rest of the time I'm building things nobody asked for yet.
+</p>
 
 
 ## 🌐 Socials:
