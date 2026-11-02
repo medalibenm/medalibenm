@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I'm Ali 👋</h1>
+<h1 align="center">Hey, I'm Ali Benmerabet 👋</h1>
 
 <h3 align="center">Product Manager &amp; Builder</h3>
 
 <p align="center">
   Designing and shipping agentic AI systems, from retrieval pipelines to production APIs<br>
-  <b>CS Graduate</b>
+  <b>CS graduate who builds software systems across the stack, from architecture to user-facing apps</b>
 </p>
 
 
