@@ -1,5 +1,5 @@
 # 💫 About Me:
-Product Manager & Builder<br>Designing and shipping agentic AI systems, from retrieval pipelines to production APIs<br>CS Graduate
+## Product Manager & Builder<br>Designing and shipping agentic AI systems, from retrieval pipelines to production APIs<br>CS Graduate
 
 
 ## 🌐 Socials:
