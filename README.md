@@ -4,7 +4,7 @@
 
 <p align="center">
   Designing and shipping agentic AI systems, from retrieval pipelines to production APIs<br>
-  <b>CS graduate who builds software systems across the stack, from architecture to user-facing apps</b>
+  CS graduate who builds software systems across the stack, from architecture to user-facing apps
 </p>
 
 
