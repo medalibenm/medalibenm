@@ -1,11 +1,8 @@
 <h1 align="center">Hey, I'm Ali 👋</h1>
 
-<p align="center">
-  CS graduate from Algiers, obsessed with agentic AI.<br>
-  By day I run product and growth.<br>
-  The rest of the time I'm building things nobody asked for yet.
-</p>
-
+## Product Manager & Builder
+### Designing and shipping agentic AI systems, from retrieval pipelines to production APIs
+### CS Graduate
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ali.benmerabet/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-benmerabet-82a746307/) 
